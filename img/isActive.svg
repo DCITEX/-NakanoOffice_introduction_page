@@ -1,0 +1,15 @@
+<svg id="isActive.svg" xmlns="http://www.w3.org/2000/svg" width="57.531" height="26.06" viewBox="0 0 57.531 26.06">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffe541;
+        stroke: #000;
+        stroke-width: 1px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="三角形_546" data-name="三角形 546" class="cls-1" d="M858.216,2993.05l-10.138-23.1,21.121,0.39Z" transform="translate(-830.5 -2969.44)"/>
+  <path id="三角形_546-2" data-name="三角形 546" class="cls-1" d="M853.559,2994.46l-22.251-9.16,9.609-12.02Z" transform="translate(-830.5 -2969.44)"/>
+  <path id="三角形_546-3" data-name="三角形 546" class="cls-1" d="M863.22,2994.3l13.52-22.52L887.2,2982.6Z" transform="translate(-830.5 -2969.44)"/>
+</svg>
